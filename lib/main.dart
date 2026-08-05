@@ -725,7 +725,7 @@ class InformationScreen extends StatelessWidget {
             child: const ListTile(
               leading: Icon(Icons.person, color: Color(0xFFAB76FA)),
               title: Text("Developer"),
-              subtitle: Text("Your Name Here\nCourse and Section"),
+              subtitle: Text("Jhonas Allen F. Caraan, BSIT 3G-G1"),
               isThreeLine: true,
             ),
           ),
